@@ -33,7 +33,7 @@ const allBox = [
 ]
 
 
-// localStorage.setItem('allBox', JSON.stringify(allBox));
+localStorage.setItem('allBox', JSON.stringify(allBox));
 
 
 
